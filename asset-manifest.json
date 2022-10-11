@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0c57078.css",
+    "main.js": "/static/js/main.06aa3247.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/AATHAV.png": "/static/media/AATHAV.d66932be83bdc48c6031.png",
+    "static/media/Transperth_Volgren_CR228L_bodied_Volvo_B7RLE.jpg": "/static/media/Transperth_Volgren_CR228L_bodied_Volvo_B7RLE.0bc0579c844c3b8b109e.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/banner-alliance_partner_640x500.jpg": "/static/media/banner-alliance_partner_640x500.4bb2c96a7885a8ef3729.jpg",
+    "static/media/weddingjpg": "/static/media/weddingjpg.b742af7620bf6587728f",
+    "static/media/logo.png": "/static/media/logo.e4d09e498b6b70f1eb61.png",
+    "index.html": "/index.html",
+    "main.c0c57078.css.map": "/static/css/main.c0c57078.css.map",
+    "main.06aa3247.js.map": "/static/js/main.06aa3247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c57078.css",
+    "static/js/main.06aa3247.js"
+  ]
+}
